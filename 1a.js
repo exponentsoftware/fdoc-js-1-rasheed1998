@@ -23,3 +23,4 @@ function countWords(paragraph,word1,word2) {
     }
 
 }
+console.log(countWords(paragraph,'love', 'you'));
