@@ -14,4 +14,4 @@ function cleanText(sentence) {
     return sentence1;
 
 }
-console.log(cleanText(sentence));
+console.log(cleanText(sentence))
